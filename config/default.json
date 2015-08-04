@@ -1,0 +1,10 @@
+{
+  "port": 3355,
+  "token": "ABC234sadfkjadfs",
+  "endPoint": "/crash",
+  "db": {
+    "host": "localhost",
+    "port": 28015,
+    "db": "crashes"
+  }
+}
